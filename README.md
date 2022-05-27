@@ -7,7 +7,7 @@ What are you expecting from this project? It's just an another bouncing logo clo
 If you are familiar with using Flutter framework or Dart programming, I think you can easily run this app flawlessly :D
 
 ## Browsing the App
-You can browse and found this useless app through this link [here]().
+You can browse and found this useless app through this link [here](https://awakendzima.netlify.app/the_bouncing_dokutah The Bouncing Dokutah).
 
 ## Code Usage
 You can do whatever you want to this source code as much as your capable of. I just regularly do my app development practicing XD
