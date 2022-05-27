@@ -1,0 +1,16 @@
+name: bouncing_dokutah
+description: A fanmade Arknights-theme useless app. Only just a Dokutah endlessly bouncing to the wall.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter:
+  assets:
+    - assets/images/
